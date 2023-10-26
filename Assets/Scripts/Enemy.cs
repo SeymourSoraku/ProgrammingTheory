@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// INHERITANCE
 [RequireComponent(typeof(Rigidbody))]
 public class Enemy : Entity
 {
